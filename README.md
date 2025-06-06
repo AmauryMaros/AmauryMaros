@@ -1,13 +1,13 @@
 # Hi there 👋
 
 <!--
-
 ## Projects
 
-- Project 1
-- Project 2
-
+- vog-mgCSTs : https://github.com/JHolm-Lab/VOG-mgCST-classifier
+- VIRGO2 : https://www.biorxiv.org/content/10.1101/2025.03.04.641479v1
+- antiSMASH : https://github.com/AmauryMaros/BGC_antiSMASH
 ---
+-->
 
 ## Code
 
@@ -58,4 +58,3 @@
 
 ---
 
--->
