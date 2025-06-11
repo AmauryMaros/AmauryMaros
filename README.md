@@ -2,7 +2,9 @@
 
 In progress :
 
-https://antismash-app.streamlit.app/
+- https://antismash-app.streamlit.app/
+
+- https://github.com/JHolm-Lab/VOG-mgCST-classifier
 
 <!--
 ## Projects
