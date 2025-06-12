@@ -6,6 +6,8 @@ In progress :
 
 - https://github.com/JHolm-Lab/VOG-mgCST-classifier
 
+- https://github.com/AmauryMaros/BGC_antiSMASH
+
 <!--
 ## Projects
 
